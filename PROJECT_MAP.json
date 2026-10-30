@@ -1,0 +1,1633 @@
+{
+  "schemaVersion": 1,
+  "snapshot": "2026-10-30T14:47:11.360Z",
+  "project": "amoCRM-fullstack",
+  "root": ".",
+  "method": "static-local-index",
+  "limitations": [
+    "Нет динамических вызовов и сетевых интеграций",
+    "Сверять sha256 и evidence.line с текущими исходниками",
+    "Наличие зависимости не доказывает работоспособность"
+  ],
+  "nodes": [
+    {
+      "id": "project:amoCRM-fullstack",
+      "type": "project",
+      "name": "amoCRM-fullstack"
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:README.md",
+      "type": "file",
+      "path": "README.md",
+      "sha256": "8f87aca311a5f2e9ac0bdfd779732a87d51dd44969aa2716f13687c27857afbd",
+      "bytes": 5229
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/.eslintrc.js",
+      "type": "file",
+      "path": "client/.eslintrc.js",
+      "sha256": "dec2f9202b08a15f6c50025392fffc6986bdc249504717b89bf8997663aadcb7",
+      "bytes": 403
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/README.md",
+      "type": "file",
+      "path": "client/README.md",
+      "sha256": "2b1c5f510c2b9c63edafcae40e8bc82e5934b6d27fd6855407e1bbae5fc5f0c4",
+      "bytes": 2140
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/babel.config.js",
+      "type": "file",
+      "path": "client/babel.config.js",
+      "sha256": "a39afa757b674974505d99ae448d7adf17a3da5505610d86e9337a0d08751159",
+      "bytes": 68
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/package.json",
+      "type": "file",
+      "path": "client/package.json",
+      "sha256": "f33da930630de8476fbee4d1dd0a1aa0d4b9752151aa00ae543bcd400002180b",
+      "bytes": 858
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/src/App.vue",
+      "type": "file",
+      "path": "client/src/App.vue",
+      "sha256": "4dd94550b7492810ac505e5c4bd98c135f29327dcc9effc456a16436b5a9ff9b",
+      "bytes": 422
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/src/components/LeadContacts.vue",
+      "type": "file",
+      "path": "client/src/components/LeadContacts.vue",
+      "sha256": "b3dd1025f3b20dbd62f861ad3a7422929e1bdf00f18d4727995bff046ac5a4b4",
+      "bytes": 1713
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/src/components/LeadsTable.vue",
+      "type": "file",
+      "path": "client/src/components/LeadsTable.vue",
+      "sha256": "a2c889e13fb82b35598c8c71c062a875b1a530d08049839d807d9327c4db956d",
+      "bytes": 4015
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/src/components/ui/SearchBar.vue",
+      "type": "file",
+      "path": "client/src/components/ui/SearchBar.vue",
+      "sha256": "d612df70220be5125032dc0bbaaecd766ce230b31cc5adf07b622c2856096563",
+      "bytes": 1423
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/src/components/ui/UserCard.vue",
+      "type": "file",
+      "path": "client/src/components/ui/UserCard.vue",
+      "sha256": "4647f6f13a9ac1cf7de816e457cbb9856ffc03602faeace249434a4772dbae26",
+      "bytes": 1150
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/src/hooks/useSearch.ts",
+      "type": "file",
+      "path": "client/src/hooks/useSearch.ts",
+      "sha256": "ca3d2825882c167247fef951edff3546c897d0444ff758a4ee5317c383d7294b",
+      "bytes": 774
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/src/main.ts",
+      "type": "file",
+      "path": "client/src/main.ts",
+      "sha256": "afd3aba5f6174d725050896878aeb9f35f9dd7ab399b357d16ee2362fae3a9f0",
+      "bytes": 245
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/src/shims-vue.d.ts",
+      "type": "file",
+      "path": "client/src/shims-vue.d.ts",
+      "sha256": "c5500b203a4169c5553cedfd1210630b655b1ce2e97c0ca7a96cf7cc939c104c",
+      "bytes": 177
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/src/store/index.ts",
+      "type": "file",
+      "path": "client/src/store/index.ts",
+      "sha256": "08f20ef9caa9801cac994eb07d1f12d30336e6b4141a3a93628285e3da24692a",
+      "bytes": 641
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/src/types/IUser.ts",
+      "type": "file",
+      "path": "client/src/types/IUser.ts",
+      "sha256": "5bccc825060448ea16c94702a353a8135b617dcfedd76197c12aada8b0b9913c",
+      "bytes": 109
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:client/vue.config.js",
+      "type": "file",
+      "path": "client/vue.config.js",
+      "sha256": "8ed374014b2113138b17d80ff157382ef03460d9575e4149e73529ab443de4e5",
+      "bytes": 122
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/.eslintrc.js",
+      "type": "file",
+      "path": "server/.eslintrc.js",
+      "sha256": "1478d57d2fdd9228e5b7b95b33fc44dc4c758219f5c4c96c0073da4daa6b3818",
+      "bytes": 704
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/README.md",
+      "type": "file",
+      "path": "server/README.md",
+      "sha256": "c65a9f70fed2927ef1da6f7e83fab8a22453ecdeae5d7c67eb7bb3a9648d4275",
+      "bytes": 4617
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/package.json",
+      "type": "file",
+      "path": "server/package.json",
+      "sha256": "2a3e653e48b0bfe6a105b923261b331b6e2180cd30422758764320bdb4b301b2",
+      "bytes": 1992
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/amo/amo.module.ts",
+      "type": "file",
+      "path": "server/src/amo/amo.module.ts",
+      "sha256": "e2c0f94d72459bd2ab8941ed7687b992308f67dbfaf5a127bdf1e96cfc502ef5",
+      "bytes": 262
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/amo/amo.service.ts",
+      "type": "file",
+      "path": "server/src/amo/amo.service.ts",
+      "sha256": "0f040038bcfe7d47f53ba926e5f5b84e804f8760907ce67463010c6c5a5d9663",
+      "bytes": 2194
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/app.module.ts",
+      "type": "file",
+      "path": "server/src/app.module.ts",
+      "sha256": "12dc0ad9e66a3877e5d3a63afc392206cd359e625ef375f4c310a08041297e84",
+      "bytes": 1067
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/auth/auth.module.ts",
+      "type": "file",
+      "path": "server/src/auth/auth.module.ts",
+      "sha256": "07dcaba0187753cae39ee95030b751cbf56dff1b3fa33b9a952cb581eb6d64e6",
+      "bytes": 267
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/auth/auth.service.ts",
+      "type": "file",
+      "path": "server/src/auth/auth.service.ts",
+      "sha256": "dc59d8684ca17067d4f726011d72046ce7e5131c52fdf43d3fb417bcb0fc44bb",
+      "bytes": 2873
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/contacts/contacts.module.ts",
+      "type": "file",
+      "path": "server/src/contacts/contacts.module.ts",
+      "sha256": "6c8d728944bfa700cb9e0dff5c01d79f51ed450ba944e5547b60a82f8c0d2217",
+      "bytes": 279
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/contacts/contacts.service.ts",
+      "type": "file",
+      "path": "server/src/contacts/contacts.service.ts",
+      "sha256": "48a9396878ea72e3c51b7012517d71090a1dd2ac99ff41e7e95b051d501ebefb",
+      "bytes": 1415
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/files/files.module.ts",
+      "type": "file",
+      "path": "server/src/files/files.module.ts",
+      "sha256": "40f0063cd9dac3ddac07ff806b2655c7b6b4f75a72ac036f2631b9eabfe07d32",
+      "bytes": 190
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/files/files.service.ts",
+      "type": "file",
+      "path": "server/src/files/files.service.ts",
+      "sha256": "05edaea42ed7ce9734b2a5db2f38bd3605fe769e271329237898c3492ec19f14",
+      "bytes": 2016
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/leads/leads.controller.ts",
+      "type": "file",
+      "path": "server/src/leads/leads.controller.ts",
+      "sha256": "4079d257609f6ee7d32660fbee88cca412f9c51424ff760b3163b14ba72b4929",
+      "bytes": 405
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/leads/leads.module.ts",
+      "type": "file",
+      "path": "server/src/leads/leads.module.ts",
+      "sha256": "05e0e50b90bcdbbbcb6ad29fca4afc7454131bf08192555b931d04dc8683cc8d",
+      "bytes": 613
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/leads/leads.service.ts",
+      "type": "file",
+      "path": "server/src/leads/leads.service.ts",
+      "sha256": "37d200e206bc413d03468a6342a7e8928fa87b1c398c2e63c226c9ac108c6638",
+      "bytes": 3871
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/main.ts",
+      "type": "file",
+      "path": "server/src/main.ts",
+      "sha256": "7b060adea004fc4d7806a87ee5f8e02aeffd02cf35b9e1aad8d519fded94035b",
+      "bytes": 736
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/statuses/statuses.module.ts",
+      "type": "file",
+      "path": "server/src/statuses/statuses.module.ts",
+      "sha256": "80aab5e3aa6c63e1ff6cd9ce96cf2c6c9c62880714b0d7968ef4348a7d077cc4",
+      "bytes": 279
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/statuses/statuses.service.ts",
+      "type": "file",
+      "path": "server/src/statuses/statuses.service.ts",
+      "sha256": "b01cc7651118cbdaef7249d43a50353f8d994fe96cbb2f7f4eed2ebb333170c2",
+      "bytes": 1305
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/types/IContact.ts",
+      "type": "file",
+      "path": "server/src/types/IContact.ts",
+      "sha256": "8e13bc3e746d69c7ed43661949a377d328fd68afd8e5eb82339c1a1903247abb",
+      "bytes": 347
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/types/ILead.ts",
+      "type": "file",
+      "path": "server/src/types/ILead.ts",
+      "sha256": "d5120f50c3d92c23e69ee3d00f20bb62e75393b9a58287209b5cff982fb9fa36",
+      "bytes": 715
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/types/IResponsibleUser.ts",
+      "type": "file",
+      "path": "server/src/types/IResponsibleUser.ts",
+      "sha256": "3088e44149ef25bb9356d09a2e572e59dcd074e27a41c83bfd7b918fadc3afa2",
+      "bytes": 289
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/types/IStatus.ts",
+      "type": "file",
+      "path": "server/src/types/IStatus.ts",
+      "sha256": "ebb13cf7df2cc2e2fb8a061f4eb2589c0949ea8bfb62ea13c65225b9ac69b302",
+      "bytes": 235
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/users/users.module.ts",
+      "type": "file",
+      "path": "server/src/users/users.module.ts",
+      "sha256": "906c2485f66e840e93b24529a6e149695748d3a930aa884a795da5c6b983bccc",
+      "bytes": 264
+    },
+    {
+      "id": "project:amoCRM-fullstack/file:server/src/users/users.service.ts",
+      "type": "file",
+      "path": "server/src/users/users.service.ts",
+      "sha256": "a7fb6982a2b4029dcbcb4d682f18e67741a91bb1b9b9b80478638d1b3a24233c",
+      "bytes": 1259
+    },
+    {
+      "id": "package:npm:@ant-design/icons-vue",
+      "type": "package",
+      "name": "@ant-design/icons-vue",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:ant-design-vue",
+      "type": "package",
+      "name": "ant-design-vue",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:axios",
+      "type": "package",
+      "name": "axios",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:core-js",
+      "type": "package",
+      "name": "core-js",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:moment",
+      "type": "package",
+      "name": "moment",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:vue",
+      "type": "package",
+      "name": "vue",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:vuex",
+      "type": "package",
+      "name": "vuex",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@typescript-eslint/eslint-plugin",
+      "type": "package",
+      "name": "@typescript-eslint/eslint-plugin",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@typescript-eslint/parser",
+      "type": "package",
+      "name": "@typescript-eslint/parser",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@vue/cli-plugin-babel",
+      "type": "package",
+      "name": "@vue/cli-plugin-babel",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@vue/cli-plugin-eslint",
+      "type": "package",
+      "name": "@vue/cli-plugin-eslint",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@vue/cli-plugin-typescript",
+      "type": "package",
+      "name": "@vue/cli-plugin-typescript",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@vue/cli-plugin-vuex",
+      "type": "package",
+      "name": "@vue/cli-plugin-vuex",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@vue/cli-service",
+      "type": "package",
+      "name": "@vue/cli-service",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@vue/eslint-config-typescript",
+      "type": "package",
+      "name": "@vue/eslint-config-typescript",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint",
+      "type": "package",
+      "name": "eslint",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint-plugin-vue",
+      "type": "package",
+      "name": "eslint-plugin-vue",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:typescript",
+      "type": "package",
+      "name": "typescript",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@nestjs/common",
+      "type": "package",
+      "name": "@nestjs/common",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@nestjs/config",
+      "type": "package",
+      "name": "@nestjs/config",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@nestjs/core",
+      "type": "package",
+      "name": "@nestjs/core",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@nestjs/platform-express",
+      "type": "package",
+      "name": "@nestjs/platform-express",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:reflect-metadata",
+      "type": "package",
+      "name": "reflect-metadata",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:rxjs",
+      "type": "package",
+      "name": "rxjs",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@nestjs/cli",
+      "type": "package",
+      "name": "@nestjs/cli",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@nestjs/schematics",
+      "type": "package",
+      "name": "@nestjs/schematics",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@nestjs/testing",
+      "type": "package",
+      "name": "@nestjs/testing",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@types/express",
+      "type": "package",
+      "name": "@types/express",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@types/jest",
+      "type": "package",
+      "name": "@types/jest",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@types/node",
+      "type": "package",
+      "name": "@types/node",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@types/supertest",
+      "type": "package",
+      "name": "@types/supertest",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint-config-prettier",
+      "type": "package",
+      "name": "eslint-config-prettier",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint-plugin-prettier",
+      "type": "package",
+      "name": "eslint-plugin-prettier",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:jest",
+      "type": "package",
+      "name": "jest",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:prettier",
+      "type": "package",
+      "name": "prettier",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:source-map-support",
+      "type": "package",
+      "name": "source-map-support",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:supertest",
+      "type": "package",
+      "name": "supertest",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:ts-jest",
+      "type": "package",
+      "name": "ts-jest",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:ts-loader",
+      "type": "package",
+      "name": "ts-loader",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:ts-node",
+      "type": "package",
+      "name": "ts-node",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:tsconfig-paths",
+      "type": "package",
+      "name": "tsconfig-paths",
+      "ecosystem": "npm"
+    }
+  ],
+  "edges": [
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:README.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "README.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/.eslintrc.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/.eslintrc.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/README.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/README.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/babel.config.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/babel.config.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/package.json",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/package.json"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/src/App.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/src/App.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/src/components/LeadContacts.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/src/components/LeadContacts.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/src/components/LeadsTable.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/src/components/LeadsTable.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/src/components/ui/SearchBar.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/src/components/ui/SearchBar.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/src/components/ui/UserCard.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/src/components/ui/UserCard.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/src/hooks/useSearch.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/src/hooks/useSearch.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/src/main.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/src/main.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/src/shims-vue.d.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/src/shims-vue.d.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/src/store/index.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/src/store/index.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/src/types/IUser.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/src/types/IUser.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:client/vue.config.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "client/vue.config.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/.eslintrc.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/.eslintrc.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/README.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/README.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/package.json",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/package.json"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/amo/amo.module.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/amo/amo.module.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/amo/amo.service.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/amo/amo.service.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/app.module.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/app.module.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/auth/auth.module.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/auth/auth.module.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/auth/auth.service.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/auth/auth.service.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/contacts/contacts.module.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/contacts/contacts.module.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/contacts/contacts.service.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/contacts/contacts.service.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/files/files.module.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/files/files.module.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/files/files.service.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/files/files.service.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/leads/leads.controller.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/leads/leads.controller.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/leads/leads.module.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/leads/leads.module.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/leads/leads.service.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/leads/leads.service.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/main.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/main.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/statuses/statuses.module.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/statuses/statuses.module.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/statuses/statuses.service.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/statuses/statuses.service.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/types/IContact.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/types/IContact.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/types/ILead.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/types/ILead.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/types/IResponsibleUser.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/types/IResponsibleUser.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/types/IStatus.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/types/IStatus.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/users/users.module.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/users/users.module.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack",
+      "target": "project:amoCRM-fullstack/file:server/src/users/users.service.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "server/src/users/users.service.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/src/main.ts",
+      "target": "project:amoCRM-fullstack/file:client/src/App.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "client/src/main.ts",
+        "line": 5
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/src/main.ts",
+      "target": "project:amoCRM-fullstack/file:client/src/store/index.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "client/src/main.ts",
+        "line": 6
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/app.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/leads/leads.module.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/app.module.ts",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/app.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/auth/auth.module.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/app.module.ts",
+        "line": 4
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/app.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/files/files.module.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/app.module.ts",
+        "line": 5
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/app.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/amo/amo.module.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/app.module.ts",
+        "line": 6
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/app.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/statuses/statuses.module.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/app.module.ts",
+        "line": 7
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/app.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/contacts/contacts.module.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/app.module.ts",
+        "line": 8
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/app.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/users/users.module.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/app.module.ts",
+        "line": 9
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/main.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/app.module.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/main.ts",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/amo/amo.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/amo/amo.service.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/amo/amo.module.ts",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/auth/auth.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/auth/auth.service.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/auth/auth.module.ts",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/contacts/contacts.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/contacts/contacts.service.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/contacts/contacts.module.ts",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/files/files.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/files/files.service.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/files/files.module.ts",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/leads/leads.controller.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/leads/leads.service.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/leads/leads.controller.ts",
+        "line": 3
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/leads/leads.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/leads/leads.service.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/leads/leads.module.ts",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/leads/leads.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/leads/leads.controller.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/leads/leads.module.ts",
+        "line": 3
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/statuses/statuses.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/statuses/statuses.service.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/statuses/statuses.module.ts",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/types/ILead.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/types/IResponsibleUser.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/types/ILead.ts",
+        "line": 1
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/types/ILead.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/types/IContact.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/types/ILead.ts",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/types/ILead.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/types/IStatus.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/types/ILead.ts",
+        "line": 3
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/src/users/users.module.ts",
+      "target": "project:amoCRM-fullstack/file:server/src/users/users.service.ts",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "server/src/users/users.module.ts",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:@ant-design/icons-vue",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 11
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:ant-design-vue",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 12
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:axios",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 13
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:core-js",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 14
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:moment",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 15
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:vue",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 16
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:vuex",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 17
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:@typescript-eslint/eslint-plugin",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 20
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:@typescript-eslint/parser",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 21
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:@vue/cli-plugin-babel",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 22
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:@vue/cli-plugin-eslint",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 23
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:@vue/cli-plugin-typescript",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 24
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:@vue/cli-plugin-vuex",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 25
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:@vue/cli-service",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 26
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:@vue/eslint-config-typescript",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 27
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:eslint",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 28
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:eslint-plugin-vue",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 29
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:client/package.json",
+      "target": "package:npm:typescript",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "client/package.json",
+        "line": 30
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@nestjs/common",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 23
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@nestjs/config",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 24
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@nestjs/core",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 25
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@nestjs/platform-express",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 26
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:axios",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 27
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:reflect-metadata",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 28
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:rxjs",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 29
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@nestjs/cli",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 32
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@nestjs/schematics",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 33
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@nestjs/testing",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 34
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@types/express",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 35
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@types/jest",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 36
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@types/node",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 37
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@types/supertest",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 38
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@typescript-eslint/eslint-plugin",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 39
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:@typescript-eslint/parser",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 40
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:eslint",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 41
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:eslint-config-prettier",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 42
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:eslint-plugin-prettier",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 43
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:jest",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 16
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:prettier",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 45
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:source-map-support",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 46
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:supertest",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 47
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:ts-jest",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 48
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:ts-loader",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 49
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:ts-node",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 50
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:tsconfig-paths",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 51
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:amoCRM-fullstack/file:server/package.json",
+      "target": "package:npm:typescript",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "server/package.json",
+        "line": 52
+      },
+      "method": "manifest"
+    }
+  ]
+}
