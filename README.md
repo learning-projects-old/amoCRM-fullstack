@@ -1,5 +1,7 @@
 # Тестовое задание для JavaScript FullStack разработчика
 
+**ЦКП:** Учебная интеграция amoCRM с интерфейсом Vue и сервером NestJS по заданию ROCKET.
+
 ### Стек: VueJS + NestJS
 
 ---
